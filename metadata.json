@@ -1,0 +1,6 @@
+{
+  "name": "Nuestro Primer Mes - 1 Mes de Novios",
+  "description": "Una hermosa experiencia interactiva para celebrar nuestro primer mes de novios: desbloqueo con fecha de compromiso, árbol floreciente de corazones animados y carta de amor interactiva con música romántica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
